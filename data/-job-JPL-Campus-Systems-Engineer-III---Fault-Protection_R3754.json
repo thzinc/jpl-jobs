@@ -1,0 +1,169 @@
+{
+  "jobPostingInfo": {
+    "id": "5e374ff5ac1e1001646e702e21630000",
+    "title": "Systems Engineer III - Fault Protection",
+    "jobDescription": "<h1><b>Job Details</b></h1><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><h2><b>Responsibilities:</b></h2><p>If you are passionate about spacecraft design, we invite you to join the <b>Flight Systems Engineering, Integration and Test Section</b>. We provide systems engineering for the design and implementation of spacecraft for the laboratory’s key flight projects. Our work spans spacecraft systems engineering, payload systems integration, electrical systems integration, fault protection and autonomy design, landing systems design, spacecraft assembly and test, systems verification and validation, and systems modeling.,</p><p></p><p>Note: <b>Fault Protection</b> is an exciting and cross-cutting systems engineering discipline with the charter of ensuring that the mission can be accomplished in the presence of an off-nominal condition or event (“fault”). Fault protection engineers perform rigorous analyses to understand all of the ways the mission can fail due to a fault, and they architect complex software behaviors to autonomously detect those faults and to restore system functionality. As a result, fault protection engineers develop a <b>strong technical knowledge</b> across the <b>breadth</b> of a particular flight system, as well as a <b>depth</b> in several areas. Their knowledge of the system behavior in off-nominal conditions makes them essential for diagnosing and responding to in-flight anomalies.</p><p></p><p>We are seeking a highly motivated and experienced <b>Systems Engineer III</b> to join the <b>Autonomy and Fault Protection Group</b>, reporting administratively to the Technical Group Supervisor and programmatically to the Project Fault Protection Lead. Your initial assignment will be to serve as a fault protection engineer on one of the many exciting projects at JPL, including Psyche and Mars Sample Return. Some of your initial tasks may include performing various fault protection analyses, planning and executing fault protection testing in a hardware/software venue, performing analysis and review of test data, and assessing risks associated with issues found in testing.</p><p></p><p>You will work independently and within a team environment, collaborating on tasks performed across a spectrum of disciplines and have excellent writing and oral presentation skills.</p><p></p><h2><b>Tasks may include but not limited to:</b></h2><ul><li><p>Be a member of a project fault protection team, reporting to the fault protection lead</p></li><li><p>Be responsible for <b>guiding the autonomy and fault management</b> requirements, principles, practices, and products for space system architectures, working closely with other subsystem engineers and flight software developers to ensure a robust design</p></li><li><p>Be responsible for <b>verifying and validating</b> a subset of the fault protection design by running suites of tests on various hardware and software-based test venues</p></li><li><p>Assess the impact of deficiencies identified in testing and <b>conveying possible solutions and risk</b> to project leadership</p></li></ul><p></p><h2><b>Qualifications:</b></h2><ul><li><p>Bachelor’s degree in Engineering, Physics, or related technical discipline with a minimum of 6 years of professional experience, or Master’s degree with a minimum of 4 years of experience, or Ph.D with a minimum of 2 years of experience.</p></li><li><p>Significant knowledge in one or more of the following areas: <b>systems engineering, aerospace engineering, and reliability trades/analyses</b></p></li><li><p>Familiarity with the principles, theories, concepts, designs, analyses, and techniques applied in <b>autonomous space systems and fault protection</b></p></li><li><p>Significant knowledge of the <b>function and operation of spacecraft</b> systems and subsystems</p></li><li><p>Ability to <b>synthesize the unique discipline knowledge</b> of a broad range of technical subject matter experts</p></li><li><p>Be a <b>self-motivated</b> individual who can work independently, in a team environment</p></li><li><p>Must have <b>excellent written and oral communication</b> skills</p></li></ul><p></p><h2><b>Preferred Skills:</b></h2><ul><li><p>Comfortable with <b>architecting and assessing complex autonomous software behaviors</b></p></li><li><p>Ability to work independently on major project assignments, with accountability for technical performance, budget and schedule</p></li><li><p>Ability to participate in requirements development for systems</p></li><li><p><b>Excellent problem-solving skills</b></p></li><li><p>Ability to deal with multiple issues, tasks and priorities concurrently</p></li><li><p>Ability to interact effectively across multiple disciplines with government and non-government agencies</p></li><li><p>Experience leading tasks and coordinating working groups on large-scale projects in system development, test, and/or operations</p></li><li><p>Experience with development and delivery of system documentation, such as requirements documents, test plans, and release description documents</p></li><li><p>Experience with functional requirement development and translation into system / subsystem / architecture, design, and implementation</p></li><li><p>Willingness to obtain a security clearance if asked.</p></li></ul><p></p><h2><b>Note: Must be U.S. Citizen or Permanent Resident</b></h2><p></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL has a catalog of benefits and perks that span from the traditional to the unique. This includes a variety of health, dental, vision, wellbeing, and retirement plans, paid time off, learning, rideshare, childcare, flexible schedule, parental leave and many more. Our focus is on work-life balance, and living healthy, fulfilling lives as we Dare Mighty Things Together. For benefits eligible positions, benefits are effective the first day of the month coincident with or immediately following the employee’s start date.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">For further benefits information click <a target=\"_blank\" href=\"https://www.jpl.jobs/benefits-perks\">Benefits and Perks</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><span>The hiring range displayed below is specifically for those who will work in or reside in the location listed. In extending an offer, Jet Propulsion Laboratory considers factors including, but not limited to, the candidate’s job related skills, experience, knowledge, and relevant education/training. Hiring range for this job may be adjusted based on primary work location outside of Pasadena, California. This adjusted range will be provided to candidates by the Recruiter when applicable.</span></p><p style=\"text-align:inherit\"></p><p><span>The typical full time equivalent annual hiring range for this job in Pasadena, California.</span></p><p></p>$122,096 - $154,336<p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">In addition, JPL is a VEVRAA Federal Contractor.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/agencies/ofccp/posters\" target=\"_blank\">EEO is the Law.</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf\" target=\"_blank\">EEO is the Law Supplement</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_English_unformattedESQA508c.pdf\" target=\"_blank\">Pay Transparency Nondiscrimination Provision</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">The Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available <a href=\"https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf\" target=\"_blank\">here.</a></p><p style=\"text-align:inherit\"></p>",
+    "location": "JPL Campus",
+    "postedOn": "Posted 30+ Days Ago",
+    "startDate": "2023-01-11",
+    "timeType": "Full time",
+    "jobReqId": "R3754",
+    "jobPostingId": "Systems-Engineer-III---Fault-Protection_R3754",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "JPL Campus",
+      "country": {
+        "descriptor": "United States of America"
+      }
+    },
+    "externalUrl": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Systems-Engineer-III---Fault-Protection_R3754"
+  },
+  "hiringOrganization": {
+    "name": "California Institute Of Technology Jet Propulsion Laboratory",
+    "url": "https://www.jpl.nasa.gov/"
+  },
+  "similarJobs": [
+    {
+      "title": "Thermal Engineer III",
+      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Cable Harness Engineer III",
+      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3881",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-03"
+    },
+    {
+      "title": "Embedded Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30 Days Ago",
+      "startDate": "2023-02-10"
+    },
+    {
+      "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Flight Systems Engineer III (Sample Retrieval Lander) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander----Project-Discovery_R3660",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Systems Engineer III (TS/SCI)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2023-03-09"
+    },
+    {
+      "title": "Systems Engineer III TS/SCI – National Security Programs Support",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-TS-SCI---National-Security-Programs-Support_R3882",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-06"
+    },
+    {
+      "title": "Flight Systems Engineer III (Sample Retrieval Lander)",
+      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander-_R3268",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Aerospace Nuclear Safety Engineer III",
+      "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
+      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "System Engineer III- (Fault Protection) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Flight Systems Engineer III, Verification and Validation",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 27 Days Ago",
+      "startDate": "2023-02-13"
+    },
+    {
+      "title": "Science Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Technical Program Manager of Mechanical Systems",
+      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-01-11"
+    }
+  ],
+  "userAuthenticated": true
+}
