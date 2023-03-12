@@ -30,22 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Satellite-Based Assessment of Relative Sea Level Change 2",
-      "externalPath": "/job/JPL-Campus/Satellite-Based-Assessment-of-Relative-Sea-Level-Change-2_R730",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "JPL Postdoctoral Fellow - Mass Spectroscopy and Gas Chromatography",
-      "externalPath": "/job/JPL-Campus/JPL-Postdoctoral-Fellow---Mass-Spectroscopy-and-Gas-Chromatography_R3237",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-28"
-    },
-    {
       "title": "Postdoc: Remote Sensing Data Analytics for Mapping and Monitoring Global Forest Carbon",
       "externalPath": "/job/JPL-Campus/Postdoc--Remote-Sensing-Data-Analytics-for-Mapping-and-Monitoring-Global-Forest-Carbon_R2896",
       "timeType": "Full time",
@@ -188,6 +172,22 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-01-26"
+    },
+    {
+      "title": "Postdoctoral Position in Pulsar/FRB Astrophysics",
+      "externalPath": "/job/JPL-Campus/Postdoctoral-Position-in-Pulsar-FRB-Astrophysics_R831",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
+      "title": "Postdoc- Mass Spectrometer Technologist",
+      "externalPath": "/job/JPL-Campus/Postdoc--Mass-Spectrometer-Technologist_R2567",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
     }
   ],
   "userAuthenticated": true

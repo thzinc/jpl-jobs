@@ -30,22 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Postdoc Position in Arctic Methane",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position-in-Arctic-Methane_R2118",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "Postdoc- Cloud and Precipitation Radar Signal Simulation and Analysis",
-      "externalPath": "/job/JPL-Campus/Postdoc--Cloud-and-Precipitation-Radar-Signal-Simulation-and-Analysis_R3445",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-28"
-    },
-    {
       "title": "Postdoc- Advancing Remote Imaging Spectroscopy for Earth Science",
       "externalPath": "/job/JPL-Campus/Postdoc--Advancing-Remote-Imaging-Spectroscopy-for-Earth-Science_R3884",
       "timeType": "Full time",
@@ -188,6 +172,22 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 26 Days Ago",
       "startDate": "2023-02-14"
+    },
+    {
+      "title": "Postdoc Position in the Science Analysis of Flagship Astrophysics Missions",
+      "externalPath": "/job/JPL-Campus/Postdoc-Position-in-the-Science-Analysis-of-Flagship-Astrophysics-Missions_R2743",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
+      "title": "Postdoc: Theoretical and numerical studies of the Cerean exospher and the molecular submillimeter line emission",
+      "externalPath": "/job/JPL-Campus/Postdoc--Theoretical-and-numerical-studies-of-the-Cerean-exospher-and-the-molecular-submillimeter-line-emission_R4013-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 13 Days Ago",
+      "startDate": "2023-02-27"
     }
   ],
   "userAuthenticated": true
