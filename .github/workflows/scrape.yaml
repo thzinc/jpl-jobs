@@ -5,15 +5,23 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  scrape:
+  download:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Download job postings
         run: ./download.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "(+semver: patch) Automated download of job postings"
+          file_pattern: "data/*"
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
       - name: Summarize job postings
         run: ./summarize.sh
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "(+semver: patch) Automated download and summarization"
+          commit_message: "(+semver: patch) Automated summarization of job postings"
           file_pattern: "data/*"
