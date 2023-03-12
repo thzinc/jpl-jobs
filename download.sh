@@ -23,17 +23,8 @@ jobPostings() {
                     -H "Origin: $BASE_URL" \
                     -H 'Accept: application/json' \
                     -H 'Accept-Encoding: gzip, deflate, br' \
-                    -H "$COOKIE_HEADER" \
                     -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0' \
-                    -H 'Accept-Language: en-US' \
                     -H 'Content-Type: application/json' \
-                    -H 'X-CALYPSO-CSRF-TOKEN: 70fa28d0-424b-4004-8790-15da5c60f57d' \
-                    -H 'Connection: keep-alive' \
-                    -H 'Sec-Fetch-Dest: empty' \
-                    -H 'Sec-Fetch-Mode: cors' \
-                    -H 'Sec-Fetch-Site: same-origin' \
-                    -H 'DNT: 1' \
-                    -H 'Sec-GPC: 1' \
                     -d @- <<<"$REQUEST_BODY" |
                     gunzip |
                     jq
@@ -60,17 +51,7 @@ jobPosting() {
         -H "Referer: ${JOBS_URL}${1}" \
         -H 'Accept: application/json' \
         -H 'Accept-Encoding: gzip, deflate, br' \
-        -H "$COOKIE_HEADER" \
-        -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0' \
-        -H 'Accept-Language: en-US' \
-        -H 'Content-Type: application/x-www-form-urlencoded' \
-        -H 'X-CALYPSO-CSRF-TOKEN: 70fa28d0-424b-4004-8790-15da5c60f57d' \
-        -H 'Connection: keep-alive' \
-        -H 'Sec-Fetch-Dest: empty' \
-        -H 'Sec-Fetch-Mode: cors' \
-        -H 'Sec-Fetch-Site: same-origin' \
-        -H 'DNT: 1' \
-        -H 'Sec-GPC: 1' |
+        -H 'Content-Type: application/x-www-form-urlencoded' |
         gunzip |
         jq
 }
