@@ -17,4 +17,3 @@ jobs:
         with:
           commit_message: "(+semver: patch) Automated download and summarization"
           file_pattern: "data/*"
-          status_options: "--untracked-files=yes"
