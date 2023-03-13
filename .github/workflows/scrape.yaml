@@ -16,8 +16,7 @@ jobs:
           git config user.email github-actions@github.com
           (
             git add data/ &&
-              git commit -m "(+semver: patch) Automated download of job postings" &&
-              git push
+              git commit -m "(+semver: patch) Automated download of job postings"
           ) || echo "Skipping because no changes were found"
   summarize:
     runs-on: ubuntu-latest
@@ -32,6 +31,13 @@ jobs:
           git config user.email github-actions@github.com
           (
             git add data/ &&
-              git commit -m "(+semver: patch) Automated summarization of job postings" &&
-              git push
+              git commit -m "(+semver: patch) Automated summarization of job postings"
           ) || echo "Skipping because no changes were found"
+  push:
+    runs-on: ubuntu-latest
+    needs:
+      - download
+      - summarize
+    steps:
+      - run: |
+          git push || echo "Skipping because no changes were found"
