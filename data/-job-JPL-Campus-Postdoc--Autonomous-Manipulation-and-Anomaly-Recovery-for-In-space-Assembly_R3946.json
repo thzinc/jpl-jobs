@@ -30,14 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Postdoc- Mass Spectrometer Technologist",
-      "externalPath": "/job/JPL-Campus/Postdoc--Mass-Spectrometer-Technologist_R2567",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
       "title": "Postdoc Position in the areas of compact clocks and atom interferometers",
       "externalPath": "/job/JPL-Campus/Job-Posting-Title-JPL-Postdoctoral-Positions-in-the-areas-of-compact-clocks-and-atom-interferometers_R421",
       "timeType": "Full time",
@@ -188,6 +180,14 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-28"
+    },
+    {
+      "title": "Postdoc- Advancing Remote Imaging Spectroscopy for Earth Science",
+      "externalPath": "/job/JPL-Campus/Postdoc--Advancing-Remote-Imaging-Spectroscopy-for-Earth-Science_R3884",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-03"
     }
   ],
   "userAuthenticated": false

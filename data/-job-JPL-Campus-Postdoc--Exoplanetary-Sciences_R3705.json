@@ -30,14 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Postdoc Position: NISAR Retrieval Algorithms Development",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position--NISAR-Retrieval-Algorithms-Development_R1089",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
       "title": "“Postdoc Position: Interaction of Dust and Water Ice Clouds in the Martian Atmosphere”",
       "externalPath": "/job/JPL-Campus/XMLNAME--Postdoc-Position--Interaction-of-Dust-and-Water-Ice-Clouds-in-the-Martian-Atmosphere-_R3181",
       "timeType": "Full time",
@@ -188,6 +180,14 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-29"
+    },
+    {
+      "title": "JPL Postdoctoral Fellow - Mass Spectroscopy and Gas Chromatography",
+      "externalPath": "/job/JPL-Campus/JPL-Postdoctoral-Fellow---Mass-Spectroscopy-and-Gas-Chromatography_R3237",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-28"
     }
   ],
   "userAuthenticated": false
