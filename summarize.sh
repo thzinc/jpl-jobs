@@ -10,18 +10,25 @@ jq <<<"$(find data -name '*.json' ! -name 'index.json' -exec jq '.' "{}" \;)" \
             "Title",
             "Time type",
             "Salary range",
+            "Salary min",
+            "Salary max",
             "External URL"
         ],
         (
             sort_by(.jobPostingInfo.startDate + .jobPostingInfo.jobReqId) |
             .[] |
+            .jobPostingInfo + 
+                (.jobPostingInfo.jobDescription | capture("(?<salaryRange>\\$(?<salaryFrom>[\\d,]+)(\\s*-\\s*\\$(?<salaryTo>[\\d,]+))?)"))
+             |
             [
-                .jobPostingInfo.startDate,
-                .jobPostingInfo.jobReqId,
-                .jobPostingInfo.title,
-                .jobPostingInfo.timeType,
-                (.jobPostingInfo.jobDescription | capture("(?<salary>\\$[\\d,]+(\\s*-\\s*\\$[\\d,]+)?)") | .salary),
-                .jobPostingInfo.externalUrl
+                .startDate,
+                .jobReqId,
+                .title,
+                .timeType,
+                .salaryRange,
+                .salaryFrom,
+                .salaryTo,
+                .externalUrl
             ]
         ) |
         @csv
