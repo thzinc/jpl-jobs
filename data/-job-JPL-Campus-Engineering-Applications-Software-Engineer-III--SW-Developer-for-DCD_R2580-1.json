@@ -13,13 +13,7 @@
       "descriptor": "United States of America",
       "id": "bc33aa3152ec42d4995f4791a106ed09"
     },
-    "jobApplication": {
-      "id": "4a13637d2a3e9000d1f16defd8520000",
-      "dateCompleted": "August 29, 2022",
-      "draft": false,
-      "posted": false
-    },
-    "canApply": false,
+    "canApply": true,
     "posted": true,
     "includeResumeParsing": true,
     "jobRequisitionLocation": {
@@ -52,5 +46,5 @@
       "startDate": "2023-02-07"
     }
   ],
-  "userAuthenticated": true
+  "userAuthenticated": false
 }
