@@ -5,39 +5,26 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  download:
+  scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Download job postings
-        run: ./download.sh
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+      - name: Download job postings
+        run: ./download.sh
+      - run: |
           (
             git add data/ &&
               git commit -m "(+semver: patch) Automated download of job postings"
           ) || echo "Skipping because no changes were found"
-  summarize:
-    runs-on: ubuntu-latest
-    needs:
-      - download
-    steps:
-      - uses: actions/checkout@v3
       - name: Summarize job postings
         run: ./summarize.sh
       - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
           (
             git add data/ &&
               git commit -m "(+semver: patch) Automated summarization of job postings"
           ) || echo "Skipping because no changes were found"
-  push:
-    runs-on: ubuntu-latest
-    needs:
-      - download
-      - summarize
-    steps:
       - run: |
-          git push || echo "Skipping because no changes were found"
+          git push
