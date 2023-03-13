@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
@@ -18,7 +16,7 @@ jobs:
         run: ./download.sh
       - run: |
           (
-            git add data/ &&
+            git add data/*.json &&
               git commit -m "(+semver: patch) Automated download of job postings"
           ) || echo "Skipping because no changes were found"
       - name: Summarize job postings
