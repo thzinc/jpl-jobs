@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Flight Systems Engineer III, Verification and Validation",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 27 Days Ago",
+      "startDate": "2023-02-13"
+    },
+    {
       "title": "Science Systems Engineer III",
       "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
       "timeType": "Full time",
@@ -155,14 +163,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-07"
-    },
-    {
-      "title": "Flight Systems Engineer III, Verification and Validation",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 27 Days Ago",
-      "startDate": "2023-02-13"
     }
   ],
   "userAuthenticated": false

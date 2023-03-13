@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Technical Program Manager of Mechanical Systems",
+      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-01-11"
+    },
+    {
       "title": "Thermal Engineer III",
       "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
       "timeType": "Full time",
@@ -155,14 +163,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
-    },
-    {
-      "title": "Technical Program Manager of Mechanical Systems",
-      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-01-11"
     }
   ],
   "userAuthenticated": false

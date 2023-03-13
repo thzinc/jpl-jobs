@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Flight Systems Engineer III (Sample Retrieval Lander)",
+      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander-_R3268",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
       "title": "Aerospace Nuclear Safety Engineer III",
       "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
       "timeType": "Full time",
@@ -156,14 +164,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-06"
-    },
-    {
-      "title": "Flight Systems Engineer III (Sample Retrieval Lander)",
-      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander-_R3268",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
     }
   ],
   "userAuthenticated": false
