@@ -30,6 +30,22 @@
   },
   "similarJobs": [
     {
+      "title": "Postdoc- Exoplanetary Sciences",
+      "externalPath": "/job/JPL-Campus/Postdoc--Exoplanetary-Sciences_R3705",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-01-05"
+    },
+    {
+      "title": "Postdoc in Geodynamics And Space Geodesy",
+      "externalPath": "/job/JPL-Campus/Postdoc-in-Geodynamics-And-Space-Geodesy_R2348",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
       "title": "Satellite-Based Assessment of Relative Sea Level Change 2",
       "externalPath": "/job/JPL-Campus/Satellite-Based-Assessment-of-Relative-Sea-Level-Change-2_R730",
       "timeType": "Full time",
@@ -172,22 +188,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-29"
-    },
-    {
-      "title": "JPL Postdoc Opportunity - Atom Interferometer for Microgravity",
-      "externalPath": "/job/JPL-Campus/JPL-Postdoc-Opportunity---Atom-Interferometer-for-Microgravity_R1704",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "Postdoc: Studying Tropospheric Ozone Trends and Variability using Satellite Observations, Ozonesondes and Model Reanalysis Products",
-      "externalPath": "/job/JPL-Campus/Postdoc--Studying-Tropospheric-Ozone-Trends-and-Variability-using-Satellite-Observations--Ozonesondes-and-Model-Reanalysis-Products_R3829",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-01-26"
     }
   ],
   "userAuthenticated": false

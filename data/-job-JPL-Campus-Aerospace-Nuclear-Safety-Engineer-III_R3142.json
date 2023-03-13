@@ -30,6 +30,22 @@
   },
   "similarJobs": [
     {
+      "title": "Systems Engineer III (TS/SCI)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2023-03-09"
+    },
+    {
+      "title": "Systems Engineer III TS/SCI – National Security Programs Support",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-TS-SCI---National-Security-Programs-Support_R3882",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-06"
+    },
+    {
       "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
       "timeType": "Full time",
@@ -147,22 +163,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III (TS/SCI)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 3 Days Ago",
-      "startDate": "2023-03-09"
-    },
-    {
-      "title": "Systems Engineer III TS/SCI – National Security Programs Support",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-TS-SCI---National-Security-Programs-Support_R3882",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-06"
     }
   ],
   "userAuthenticated": false

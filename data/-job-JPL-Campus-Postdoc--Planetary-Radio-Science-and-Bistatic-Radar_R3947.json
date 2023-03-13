@@ -30,6 +30,22 @@
   },
   "similarJobs": [
     {
+      "title": "Postdoc: Theoretical and numerical studies of the Cerean exospher and the molecular submillimeter line emission",
+      "externalPath": "/job/JPL-Campus/Postdoc--Theoretical-and-numerical-studies-of-the-Cerean-exospher-and-the-molecular-submillimeter-line-emission_R4013-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 13 Days Ago",
+      "startDate": "2023-02-27"
+    },
+    {
+      "title": "Diagnosing Ocean-Wave-Turbulence Interactions from Satellite Data and Numerical Simulations",
+      "externalPath": "/job/JPL-Campus/Diagnosing-Ocean-Wave-Turbulence-Interactions-from-Satellite-Data-and-Numerical-Simulations_R749",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
       "title": "Postdoc in Autonomy Development for Semantics-aware Active Search in Unknown Environments",
       "externalPath": "/job/JPL-Campus/Postdoc-in-Autonomy-Development-for-Semantics-aware-Active-Search-in-Unknown-Environments_R3852",
       "timeType": "Full time",
@@ -172,22 +188,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-28"
-    },
-    {
-      "title": "Postdoc Position: NISAR Retrieval Algorithms Development",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position--NISAR-Retrieval-Algorithms-Development_R1089",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "“Postdoc Position: Interaction of Dust and Water Ice Clouds in the Martian Atmosphere”",
-      "externalPath": "/job/JPL-Campus/XMLNAME--Postdoc-Position--Interaction-of-Dust-and-Water-Ice-Clouds-in-the-Martian-Atmosphere-_R3181",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-23"
     }
   ],
   "userAuthenticated": false
