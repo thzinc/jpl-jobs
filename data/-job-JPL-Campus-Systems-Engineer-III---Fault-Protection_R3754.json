@@ -30,12 +30,28 @@
   },
   "similarJobs": [
     {
-      "title": "Flight Systems Engineer III, Verification and Validation",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 27 Days Ago",
-      "startDate": "2023-02-13"
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
+      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "System Engineer III- (Fault Protection) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
     },
     {
       "title": "Science Systems Engineer III",
@@ -44,6 +60,14 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
+    },
+    {
+      "title": "Flight Systems Engineer III, Verification and Validation",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 28 Days Ago",
+      "startDate": "2023-02-13"
     },
     {
       "title": "Technical Program Manager of Mechanical Systems",
@@ -82,7 +106,7 @@
       "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 30 Days Ago",
+      "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-10"
     },
     {
@@ -101,19 +125,11 @@
       "startDate": "2023-02-07"
     },
     {
-      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
       "title": "Systems Engineer III (TS/SCI)",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 3 Days Ago",
+      "postedOn": "Posted 4 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -125,12 +141,12 @@
       "startDate": "2023-02-06"
     },
     {
-      "title": "Flight Systems Engineer III (Sample Retrieval Lander)",
-      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander-_R3268",
+      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
+      "startDate": "2023-02-07"
     },
     {
       "title": "Aerospace Nuclear Safety Engineer III",
@@ -139,30 +155,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
-      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "System Engineer III- (Fault Protection) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
     }
   ],
   "userAuthenticated": false
