@@ -28,6 +28,15 @@
     "name": "California Institute Of Technology Jet Propulsion Laboratory",
     "url": "https://www.jpl.nasa.gov/"
   },
-  "similarJobs": [],
+  "similarJobs": [
+    {
+      "title": "Engineering Graduate Student I",
+      "externalPath": "/job/JPL-Campus/Engineering-Graduate-Student-I_R4091",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted Today",
+      "startDate": "2023-03-14"
+    }
+  ],
   "userAuthenticated": false
 }

@@ -42,7 +42,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 28 Days Ago",
+      "postedOn": "Posted 29 Days Ago",
       "startDate": "2023-02-13"
     },
     {
@@ -70,14 +70,6 @@
       "startDate": "2023-01-11"
     },
     {
-      "title": "Cable Harness Engineer III",
-      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
       "title": "Systems Engineer III",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3881",
       "timeType": "Full time",
@@ -94,6 +86,14 @@
       "startDate": "2023-02-10"
     },
     {
+      "title": "Cable Harness Engineer III",
+      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
       "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
       "timeType": "Full time",
@@ -106,16 +106,8 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 4 Days Ago",
+      "postedOn": "Posted 5 Days Ago",
       "startDate": "2023-03-09"
-    },
-    {
-      "title": "Systems Engineer III TS/SCI – National Security Programs Support",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-TS-SCI---National-Security-Programs-Support_R3882",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-06"
     },
     {
       "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
