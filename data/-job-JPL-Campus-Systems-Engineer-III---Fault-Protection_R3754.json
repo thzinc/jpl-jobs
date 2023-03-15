@@ -30,38 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Aerospace Nuclear Safety Engineer III",
-      "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
-      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "System Engineer III- (Fault Protection) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
       "title": "Flight Systems Engineer III, Verification and Validation",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
       "timeType": "Full time",
@@ -102,20 +70,20 @@
       "startDate": "2023-02-10"
     },
     {
-      "title": "Cable Harness Engineer III",
-      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
       "title": "Systems Engineer III",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3881",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-03"
+    },
+    {
+      "title": "Cable Harness Engineer III",
+      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
     },
     {
       "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
@@ -143,6 +111,38 @@
     {
       "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Aerospace Nuclear Safety Engineer III",
+      "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
+      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "System Engineer III- (Fault Protection) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
