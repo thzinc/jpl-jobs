@@ -16,7 +16,7 @@ jobs:
         run: ./download.sh
       - run: |
           (
-            git add data/*.json &&
+            git add data/ &&
               git commit -m "(+semver: patch) Automated download of job postings"
           ) || echo "Skipping because no changes were found"
       - name: Summarize job postings

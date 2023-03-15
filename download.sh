@@ -58,7 +58,7 @@ jobPosting() {
 
 JOB_POSTINGS=$(jobPostings)
 
-rm -rf data/
+rm -rf data/*.json
 mkdir -p data/
 cat <<<"$JOB_POSTINGS" >data/index.json
 jq <<<"$JOB_POSTINGS" \
