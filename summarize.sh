@@ -12,14 +12,25 @@ jq <<<"$(find data -name '*.json' ! -name 'index.json' -exec jq '.' "{}" \;)" \
             "Salary range",
             "Salary min",
             "Salary max",
+            "TS/SCI?",
             "External URL"
         ],
         (
             sort_by(.jobPostingInfo.startDate + .jobPostingInfo.jobReqId) |
             .[] |
             .jobPostingInfo + 
-                (.jobPostingInfo.jobDescription | capture("(?<salaryRange>\\$(?<salaryFrom>[\\d,]+)(\\s*-\\s*\\$(?<salaryTo>[\\d,]+))?)"))
-             |
+                (.jobPostingInfo.jobDescription | capture("(?<salaryRange>\\$(?<salaryFrom>[\\d,]+)(\\s*-\\s*\\$(?<salaryTo>[\\d,]+))?)")) +
+                {
+                    tsSci: [
+                        [
+                            .jobPostingInfo.title,
+                            .jobPostingInfo.jobDescription
+                        ] |
+                        .[] |
+                        test("\\b(ts|sci)\\b"; "i")
+                    ] |
+                    any
+                } |
             [
                 .startDate,
                 .jobReqId,
@@ -28,6 +39,7 @@ jq <<<"$(find data -name '*.json' ! -name 'index.json' -exec jq '.' "{}" \;)" \
                 .salaryRange,
                 .salaryFrom,
                 .salaryTo,
+                .tsSci,
                 .externalUrl
             ]
         ) |
