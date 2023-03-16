@@ -30,54 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Science Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Flight Systems Engineer III, Verification and Validation",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 29 Days Ago",
-      "startDate": "2023-02-13"
-    },
-    {
-      "title": "Technical Program Manager of Mechanical Systems",
-      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-01-11"
-    },
-    {
-      "title": "Thermal Engineer III",
-      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III - Fault Protection",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Fault-Protection_R3754",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-01-11"
-    },
-    {
-      "title": "Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3881",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-03"
-    },
-    {
       "title": "Embedded Systems Engineer III",
       "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
       "timeType": "Full time",
@@ -113,7 +65,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 5 Days Ago",
+      "postedOn": "Posted 6 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -147,6 +99,46 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-07"
+    },
+    {
+      "title": "Science Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Flight Systems Engineer III, Verification and Validation",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30 Days Ago",
+      "startDate": "2023-02-13"
+    },
+    {
+      "title": "Technical Program Manager of Mechanical Systems",
+      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-01-11"
+    },
+    {
+      "title": "Thermal Engineer III",
+      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Systems Engineer III - Fault Protection",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Fault-Protection_R3754",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-01-11"
     }
   ],
   "userAuthenticated": false
