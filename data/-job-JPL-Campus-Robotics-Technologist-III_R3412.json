@@ -28,6 +28,23 @@
     "name": "California Institute Of Technology Jet Propulsion Laboratory",
     "url": "https://www.jpl.nasa.gov/"
   },
-  "similarJobs": [],
+  "similarJobs": [
+    {
+      "title": "Robotics Technologist III",
+      "externalPath": "/job/JPL-Campus/Robotics-Technologist-III_R4099",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted Today",
+      "startDate": "2023-03-16"
+    },
+    {
+      "title": "Robotics Technologist III",
+      "externalPath": "/job/JPL-Campus/Robotics-Technologist-III_R4098",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted Today",
+      "startDate": "2023-03-16"
+    }
+  ],
   "userAuthenticated": false
 }

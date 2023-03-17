@@ -30,14 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Postdoc Position: NISAR Retrieval Algorithms Development",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position--NISAR-Retrieval-Algorithms-Development_R1089",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
       "title": "“Postdoc Position: Interaction of Dust and Water Ice Clouds in the Martian Atmosphere”",
       "externalPath": "/job/JPL-Campus/XMLNAME--Postdoc-Position--Interaction-of-Dust-and-Water-Ice-Clouds-in-the-Martian-Atmosphere-_R3181",
       "timeType": "Full time",
@@ -58,7 +50,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Autonomous-Manipulation-and-Anomaly-Recovery-for-In-space-Assembly_R3946",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 29 Days Ago",
+      "postedOn": "Posted 30 Days Ago",
       "startDate": "2023-02-14"
     },
     {
@@ -66,7 +58,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--JWST-Star-Formation-Studies_R4094",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted Today",
+      "postedOn": "Posted Yesterday",
       "startDate": "2023-03-15"
     },
     {
@@ -82,7 +74,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Theoretical-and-numerical-studies-of-the-Cerean-exospher-and-the-molecular-submillimeter-line-emission_R4013-1",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 16 Days Ago",
+      "postedOn": "Posted 17 Days Ago",
       "startDate": "2023-02-27"
     },
     {
@@ -188,6 +180,14 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-01-05"
+    },
+    {
+      "title": "Postdoc in Geodynamics And Space Geodesy",
+      "externalPath": "/job/JPL-Campus/Postdoc-in-Geodynamics-And-Space-Geodesy_R2348",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
     }
   ],
   "userAuthenticated": false
