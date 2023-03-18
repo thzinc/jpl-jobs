@@ -30,30 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Ionosphere Phase Estimation for InSAR Time Series Analyses",
-      "externalPath": "/job/JPL-Campus/Ionosphere-Phase-Estimation-for-InSAR-Time-Series-Analyses_R1336",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "Postdoc Position in Arctic Methane",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position-in-Arctic-Methane_R2118",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
-    },
-    {
-      "title": "Postdoc- Cloud and Precipitation Radar Signal Simulation and Analysis",
-      "externalPath": "/job/JPL-Campus/Postdoc--Cloud-and-Precipitation-Radar-Signal-Simulation-and-Analysis_R3445",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-28"
-    },
-    {
       "title": "Postdoc- Advancing Remote Imaging Spectroscopy for Earth Science",
       "externalPath": "/job/JPL-Campus/Postdoc--Advancing-Remote-Imaging-Spectroscopy-for-Earth-Science_R3884",
       "timeType": "Full time",
@@ -146,7 +122,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Retrieval-of-ice-sheet-and-ice-shelf-properties-using-spaceborne-multi-frequency-microwave-radiometry-1_R4102",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted Today",
+      "postedOn": "Posted Yesterday",
       "startDate": "2023-03-16"
     },
     {
@@ -170,7 +146,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Planetary-Radio-Science-and-Bistatic-Radar_R3947",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 30 Days Ago",
+      "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-14"
     },
     {
@@ -188,6 +164,30 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-23"
+    },
+    {
+      "title": "Postdoctoral Position -NISAR Solid Earth Algorithm Development",
+      "externalPath": "/job/JPL-Campus/Postdoctoral-Position--NISAR-Solid-Earth-Algorithm-Development_R2329-1",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
+      "title": "Postdoc: Autonomous Manipulation and Anomaly Recovery for In-space Assembly",
+      "externalPath": "/job/JPL-Campus/Postdoc--Autonomous-Manipulation-and-Anomaly-Recovery-for-In-space-Assembly_R3946",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-14"
+    },
+    {
+      "title": "Postdoc Position in the Science Analysis of Flagship Astrophysics Missions",
+      "externalPath": "/job/JPL-Campus/Postdoc-Position-in-the-Science-Analysis-of-Flagship-Astrophysics-Missions_R2743",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
     }
   ],
   "userAuthenticated": false
