@@ -30,22 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Flight Systems Engineer III, Verification and Validation",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-13"
-    },
-    {
-      "title": "Science Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
       "title": "Thermal Engineer III",
       "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
       "timeType": "Full time",
@@ -62,20 +46,20 @@
       "startDate": "2023-01-11"
     },
     {
-      "title": "Embedded Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-10"
-    },
-    {
       "title": "Cable Harness Engineer III",
       "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
+    },
+    {
+      "title": "Embedded Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-10"
     },
     {
       "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
@@ -97,7 +81,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 8 Days Ago",
+      "postedOn": "Posted 9 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -139,6 +123,22 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-07"
+    },
+    {
+      "title": "Science Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
+      "title": "Flight Systems Engineer III, Verification and Validation",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-13"
     }
   ],
   "userAuthenticated": false
