@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
       "title": "Aerospace Nuclear Safety Engineer III",
       "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
       "timeType": "Full time",
@@ -122,7 +130,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 9 Days Ago",
+      "postedOn": "Posted 10 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -132,14 +140,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-07"
-    },
-    {
-      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
     }
   ],
   "userAuthenticated": false

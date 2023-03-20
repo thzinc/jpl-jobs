@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Postdoc Position in Arctic Methane",
+      "externalPath": "/job/JPL-Campus/Postdoc-Position-in-Arctic-Methane_R2118",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-29"
+    },
+    {
       "title": "Postdoc- Cloud and Precipitation Radar Signal Simulation and Analysis",
       "externalPath": "/job/JPL-Campus/Postdoc--Cloud-and-Precipitation-Radar-Signal-Simulation-and-Analysis_R3445",
       "timeType": "Full time",
@@ -138,7 +146,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Retrieval-of-ice-sheet-and-ice-shelf-properties-using-spaceborne-multi-frequency-microwave-radiometry-1_R4102",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 2 Days Ago",
+      "postedOn": "Posted 3 Days Ago",
       "startDate": "2023-03-16"
     },
     {
@@ -180,14 +188,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-29"
-    },
-    {
-      "title": "Postdoc: Autonomous Manipulation and Anomaly Recovery for In-space Assembly",
-      "externalPath": "/job/JPL-Campus/Postdoc--Autonomous-Manipulation-and-Anomaly-Recovery-for-In-space-Assembly_R3946",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-14"
     }
   ],
   "userAuthenticated": false
