@@ -7,7 +7,7 @@ LIMIT=20
 OFFSET=0
 
 jobPostings() {
-    jq -s <<<"$(
+    jq -s --sort-keys 'sort_by(.externalPath)' <<<"$(
         while :; do
             REQUEST_BODY=$(
                 echo '{}' |
@@ -53,7 +53,7 @@ jobPosting() {
         -H 'Accept-Encoding: gzip, deflate, br' \
         -H 'Content-Type: application/x-www-form-urlencoded' |
         gunzip |
-        jq
+        jq --sort-keys 'del(.similarJobs)'
 }
 
 JOB_POSTINGS=$(jobPostings)
