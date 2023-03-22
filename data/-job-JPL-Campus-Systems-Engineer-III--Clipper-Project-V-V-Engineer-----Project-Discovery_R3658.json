@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Thermal Engineer III",
+      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2022-12-22"
+    },
+    {
       "title": "Cable Harness Engineer III",
       "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
       "timeType": "Full time",
@@ -65,7 +73,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 11 Days Ago",
+      "postedOn": "Posted 12 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -123,14 +131,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-01-11"
-    },
-    {
-      "title": "Thermal Engineer III",
-      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
     }
   ],
   "userAuthenticated": false

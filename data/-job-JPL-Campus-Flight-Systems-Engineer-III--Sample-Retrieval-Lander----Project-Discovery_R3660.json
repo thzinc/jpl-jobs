@@ -30,14 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Embedded Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-10"
-    },
-    {
       "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
       "timeType": "Full time",
@@ -58,7 +50,7 @@
       "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 11 Days Ago",
+      "postedOn": "Posted 12 Days Ago",
       "startDate": "2023-03-09"
     },
     {
@@ -132,6 +124,14 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
+    },
+    {
+      "title": "Embedded Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-10"
     }
   ],
   "userAuthenticated": false

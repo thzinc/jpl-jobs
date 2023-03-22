@@ -30,45 +30,6 @@
   },
   "similarJobs": [
     {
-      "title": "Embedded Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-10"
-    },
-    {
-      "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Flight Systems Engineer III (Sample Retrieval Lander) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander----Project-Discovery_R3660",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Systems Engineer III (TS/SCI)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 11 Days Ago",
-      "startDate": "2023-03-09"
-    },
-    {
       "title": "Aerospace Nuclear Safety Engineer III",
       "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
       "timeType": "Full time",
@@ -131,6 +92,45 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2022-12-22"
+    },
+    {
+      "title": "Embedded Systems Engineer III",
+      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-10"
+    },
+    {
+      "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Flight Systems Engineer III (Sample Retrieval Lander) - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander----Project-Discovery_R3660",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2023-02-07"
+    },
+    {
+      "title": "Systems Engineer III (TS/SCI)",
+      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted 12 Days Ago",
+      "startDate": "2023-03-09"
     }
   ],
   "userAuthenticated": false

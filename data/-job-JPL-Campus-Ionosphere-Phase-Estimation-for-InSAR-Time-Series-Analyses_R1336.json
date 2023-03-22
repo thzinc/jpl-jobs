@@ -30,6 +30,14 @@
   },
   "similarJobs": [
     {
+      "title": "Postdoc: MDL- Microdevice And Sensor Systems",
+      "externalPath": "/job/JPL-Campus/Postdoc--MDL--Microdevice-And-Sensor-Systems_R4042",
+      "timeType": "Full time",
+      "locationsText": "JPL Campus",
+      "postedOn": "Posted Yesterday",
+      "startDate": "2023-03-20"
+    },
+    {
       "title": "Postdoc- Cloud and Precipitation Radar Signal Simulation and Analysis",
       "externalPath": "/job/JPL-Campus/Postdoc--Cloud-and-Precipitation-Radar-Signal-Simulation-and-Analysis_R3445",
       "timeType": "Full time",
@@ -58,7 +66,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--JWST-Star-Formation-Studies_R4093",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted Today",
+      "postedOn": "Posted Yesterday",
       "startDate": "2023-03-20"
     },
     {
@@ -154,7 +162,7 @@
       "externalPath": "/job/JPL-Campus/Postdoc--Retrieval-of-ice-sheet-and-ice-shelf-properties-using-spaceborne-multi-frequency-microwave-radiometry-1_R4102",
       "timeType": "Full time",
       "locationsText": "JPL Campus",
-      "postedOn": "Posted 4 Days Ago",
+      "postedOn": "Posted 5 Days Ago",
       "startDate": "2023-03-16"
     },
     {
@@ -180,14 +188,6 @@
       "locationsText": "JPL Campus",
       "postedOn": "Posted 30+ Days Ago",
       "startDate": "2023-02-14"
-    },
-    {
-      "title": "Postdoc Position: NISAR Retrieval Algorithms Development",
-      "externalPath": "/job/JPL-Campus/Postdoc-Position--NISAR-Retrieval-Algorithms-Development_R1089",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-29"
     }
   ],
   "userAuthenticated": false
