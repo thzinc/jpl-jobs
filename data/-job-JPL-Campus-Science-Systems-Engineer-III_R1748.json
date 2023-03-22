@@ -1,137 +1,32 @@
 {
-  "jobPostingInfo": {
-    "id": "f0d5c7da283601010a0bbaf45c7a0000",
-    "title": "Science Systems Engineer III",
-    "jobDescription": "<h1><b>Job Details</b></h1><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p><b>OVERVIEW: </b></p><p></p><p>Do you excel in an environment that values exploration and discovery? We have a universe of opportunities waiting for you!</p><p></p><p>The Jet Propulsion Laboratory (JPL) is NASA’s leading center for robotic exploration of the solar system. Our core competency is the end-to-end implementation of unprecedented robotic space missions to study Earth, the Solar System, and the Universe.</p><p></p><p>The Instrument Software and Science Data Systems Section (Section 398) within JPL consists of multidisciplinary teams of engineers and data scientists who provide expertise across the domains of instrument operations, science data systems, and science support.</p><p></p><p>Section 398 has the responsibility to:</p><ul><li>Deliver the Instrument Operations System (IOS) to an instrument team or flight mission.  The IOS is the integrated set of people, processes, procedures, software, hardware, and facilities with the capability to plan and command instrument observations, as well as control and monitor instrument performance.</li><li>Deliver the Science Data System (SDS) to an instrument team, flight mission, or science project. The SDS is the integrated set of software, hardware, facilities, people and procedures with the capability to process, manage, distribute, explore, and analyze scientific data.</li><li>Provide data science services that enable and support JPL scientific investigations and goals.</li><li>Provide science project management and science system engineering support to JPL and NASA programs and projects.</li><li>Provide software engineering and development support to instrument and science teams.</li></ul><p></p><p>We are seeking a highly motivated and experienced scientist/engineer to serve as an <b>Applied Science System Engineer </b>in support of NASA’s Western Water Applications Office (WWAO). WWAO is a NASA program office headquartered at JPL whose mission is to support advances in water management in the western U.S. through the application of NASA data, technology, and tools to address critical water management challenges in partnership with water managers and decision makers.</p><p>You will report to the Group Supervisor for the <b>Applied Science System Engineering Group (398P)</b> and serve the WWAO program office as your primary technical stakeholder. The successful candidate will serve as an essential WWAO team member and is expected to be a proactive contributor to program success working in a dynamic, multidisciplinary environment. The candidate must be willing and able to handle planned and unforeseen challenges that can occur during program and project development and implementation. Your responsibilities will be to lead the multi-center WWAO Science Capabilities team, and coordinate with WWAO management, stakeholder engagement, and research to operations teams, seeing relevant project requirements through to operational implementation. This effort includes coordination and cognizance of NASA Earth observations and projects relevant to water management challenges in the western United States. You will work independently and within a team environment, collaborating on tasks performed across a spectrum of disciplines and have excellent writing and oral presentation skills.</p><p><b>Job Responsibilities:</b></p><p><b>Tasks include but not limited to:</b></p><ul><li>Technical analyses, requirements development, verification and validation planning, resource tracking, and problem identification and resolution.</li><li>Negotiate requirements, and summarize trade-offs to program management, Science PI’s, end users and sponsors.</li><li>Manage tasks, and report to management.</li><li>Manage the WWAO project portfolio.</li><li>Contribute to and support project and program reviews, technical reviews, and documentation.</li><li>Works independently and under the direction of the group supervisor, program management, and technical leads.</li></ul><p><b>Qualifications:</b></p><ul><li>Bachelor&#39;s degree in Engineering, Physics, or related technical discipline with a minimum of 6 years of related experience; Master&#39;s degree in similar disciplines with at least 4 years of related experience; or PhD in similar disciplines with at least 2 years of related experience.</li><li>Wide ranging experience and knowledge in one or more of the following areas: climate science, environmental engineering, and water management, technical knowledge on subjects dealing with remote sensing</li><li>Experience leading multifunctional and/or multidisciplinary teams.</li></ul><ul><li>Excellent communication skills to understand science and applied science needs/requirements, communicate complex science to non-technical audiences and multidisciplinary teams,</li><li>Programming/computer skills such as C/C&#43;&#43; or Python, R; data and statistical analysis tools; geographic information systems and visualization tools (e.g., ENVI, ArcGIS and Google Earth); Microsoft Office suite.</li></ul><p><b>Preferred Skills:</b></p><ul><li>Familiarity with JPL policies and procedures, NASA policies and procedures, and government regulations.</li><li>Solid understanding of NASA remote sensing science and applications across multiple sensors and projects.</li><li>Technical knowledge evidenced by a peer-reviewed publication and/or conference presentation record on subjects dealing with the application of NASA Earth observations to benefit water resources management.</li><li>Prior experience with NASA projects.</li><li>Experience working with water resources applications communities.</li><li>Demonstrated use of creativity and innovation to address critical issues.</li></ul><p></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL has a catalog of benefits and perks that span from the traditional to the unique. This includes a variety of health, dental, vision, wellbeing, and retirement plans, paid time off, learning, rideshare, childcare, flexible schedule, parental leave and many more. Our focus is on work-life balance, and living healthy, fulfilling lives as we Dare Mighty Things Together. For benefits eligible positions, benefits are effective the first day of the month coincident with or immediately following the employee’s start date.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">For further benefits information click <a target=\"_blank\" href=\"https://www.jpl.jobs/benefits-perks\">Benefits and Perks</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><span>The hiring range displayed below is specifically for those who will work in or reside in the location listed. In extending an offer, Jet Propulsion Laboratory considers factors including, but not limited to, the candidate’s job related skills, experience, knowledge, and relevant education/training. Hiring range for this job may be adjusted based on primary work location outside of Pasadena, California. This adjusted range will be provided to candidates by the Recruiter when applicable.</span></p><p style=\"text-align:inherit\"></p><p><span>The typical full time equivalent annual hiring range for this job in Pasadena, California.</span></p><p></p>$122,096 - $154,336<p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">In addition, JPL is a VEVRAA Federal Contractor.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/agencies/ofccp/posters\" target=\"_blank\">EEO is the Law.</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf\" target=\"_blank\">EEO is the Law Supplement</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_English_unformattedESQA508c.pdf\" target=\"_blank\">Pay Transparency Nondiscrimination Provision</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">The Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available <a href=\"https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf\" target=\"_blank\">here.</a></p><p style=\"text-align:inherit\"></p>",
-    "location": "JPL Campus",
-    "postedOn": "Posted 30+ Days Ago",
-    "startDate": "2022-12-22",
-    "timeType": "Full time",
-    "jobReqId": "R1748",
-    "jobPostingId": "Science-Systems-Engineer-III_R1748",
-    "country": {
-      "descriptor": "United States of America",
-      "id": "bc33aa3152ec42d4995f4791a106ed09"
-    },
-    "canApply": true,
-    "posted": true,
-    "includeResumeParsing": true,
-    "jobRequisitionLocation": {
-      "descriptor": "JPL Campus",
-      "country": {
-        "descriptor": "United States of America"
-      }
-    },
-    "externalUrl": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Science-Systems-Engineer-III_R1748"
-  },
   "hiringOrganization": {
     "name": "California Institute Of Technology Jet Propulsion Laboratory",
     "url": "https://www.jpl.nasa.gov/"
   },
-  "similarJobs": [
-    {
-      "title": "Embedded Systems Engineer III",
-      "externalPath": "/job/JPL-Campus/Embedded-Systems-Engineer-III_R3825",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-10"
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
     },
-    {
-      "title": "Systems Engineer III (Verification & Validation) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III---Project-Discovery_R3663",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
+    "externalUrl": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Science-Systems-Engineer-III_R1748",
+    "id": "f0d5c7da283601010a0bbaf45c7a0000",
+    "includeResumeParsing": true,
+    "jobDescription": "<h1><b>Job Details</b></h1><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p><b>OVERVIEW: </b></p><p></p><p>Do you excel in an environment that values exploration and discovery? We have a universe of opportunities waiting for you!</p><p></p><p>The Jet Propulsion Laboratory (JPL) is NASA’s leading center for robotic exploration of the solar system. Our core competency is the end-to-end implementation of unprecedented robotic space missions to study Earth, the Solar System, and the Universe.</p><p></p><p>The Instrument Software and Science Data Systems Section (Section 398) within JPL consists of multidisciplinary teams of engineers and data scientists who provide expertise across the domains of instrument operations, science data systems, and science support.</p><p></p><p>Section 398 has the responsibility to:</p><ul><li>Deliver the Instrument Operations System (IOS) to an instrument team or flight mission.  The IOS is the integrated set of people, processes, procedures, software, hardware, and facilities with the capability to plan and command instrument observations, as well as control and monitor instrument performance.</li><li>Deliver the Science Data System (SDS) to an instrument team, flight mission, or science project. The SDS is the integrated set of software, hardware, facilities, people and procedures with the capability to process, manage, distribute, explore, and analyze scientific data.</li><li>Provide data science services that enable and support JPL scientific investigations and goals.</li><li>Provide science project management and science system engineering support to JPL and NASA programs and projects.</li><li>Provide software engineering and development support to instrument and science teams.</li></ul><p></p><p>We are seeking a highly motivated and experienced scientist/engineer to serve as an <b>Applied Science System Engineer </b>in support of NASA’s Western Water Applications Office (WWAO). WWAO is a NASA program office headquartered at JPL whose mission is to support advances in water management in the western U.S. through the application of NASA data, technology, and tools to address critical water management challenges in partnership with water managers and decision makers.</p><p>You will report to the Group Supervisor for the <b>Applied Science System Engineering Group (398P)</b> and serve the WWAO program office as your primary technical stakeholder. The successful candidate will serve as an essential WWAO team member and is expected to be a proactive contributor to program success working in a dynamic, multidisciplinary environment. The candidate must be willing and able to handle planned and unforeseen challenges that can occur during program and project development and implementation. Your responsibilities will be to lead the multi-center WWAO Science Capabilities team, and coordinate with WWAO management, stakeholder engagement, and research to operations teams, seeing relevant project requirements through to operational implementation. This effort includes coordination and cognizance of NASA Earth observations and projects relevant to water management challenges in the western United States. You will work independently and within a team environment, collaborating on tasks performed across a spectrum of disciplines and have excellent writing and oral presentation skills.</p><p><b>Job Responsibilities:</b></p><p><b>Tasks include but not limited to:</b></p><ul><li>Technical analyses, requirements development, verification and validation planning, resource tracking, and problem identification and resolution.</li><li>Negotiate requirements, and summarize trade-offs to program management, Science PI’s, end users and sponsors.</li><li>Manage tasks, and report to management.</li><li>Manage the WWAO project portfolio.</li><li>Contribute to and support project and program reviews, technical reviews, and documentation.</li><li>Works independently and under the direction of the group supervisor, program management, and technical leads.</li></ul><p><b>Qualifications:</b></p><ul><li>Bachelor&#39;s degree in Engineering, Physics, or related technical discipline with a minimum of 6 years of related experience; Master&#39;s degree in similar disciplines with at least 4 years of related experience; or PhD in similar disciplines with at least 2 years of related experience.</li><li>Wide ranging experience and knowledge in one or more of the following areas: climate science, environmental engineering, and water management, technical knowledge on subjects dealing with remote sensing</li><li>Experience leading multifunctional and/or multidisciplinary teams.</li></ul><ul><li>Excellent communication skills to understand science and applied science needs/requirements, communicate complex science to non-technical audiences and multidisciplinary teams,</li><li>Programming/computer skills such as C/C&#43;&#43; or Python, R; data and statistical analysis tools; geographic information systems and visualization tools (e.g., ENVI, ArcGIS and Google Earth); Microsoft Office suite.</li></ul><p><b>Preferred Skills:</b></p><ul><li>Familiarity with JPL policies and procedures, NASA policies and procedures, and government regulations.</li><li>Solid understanding of NASA remote sensing science and applications across multiple sensors and projects.</li><li>Technical knowledge evidenced by a peer-reviewed publication and/or conference presentation record on subjects dealing with the application of NASA Earth observations to benefit water resources management.</li><li>Prior experience with NASA projects.</li><li>Experience working with water resources applications communities.</li><li>Demonstrated use of creativity and innovation to address critical issues.</li></ul><p></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL has a catalog of benefits and perks that span from the traditional to the unique. This includes a variety of health, dental, vision, wellbeing, and retirement plans, paid time off, learning, rideshare, childcare, flexible schedule, parental leave and many more. Our focus is on work-life balance, and living healthy, fulfilling lives as we Dare Mighty Things Together. For benefits eligible positions, benefits are effective the first day of the month coincident with or immediately following the employee’s start date.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">For further benefits information click <a target=\"_blank\" href=\"https://www.jpl.jobs/benefits-perks\">Benefits and Perks</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><span>The hiring range displayed below is specifically for those who will work in or reside in the location listed. In extending an offer, Jet Propulsion Laboratory considers factors including, but not limited to, the candidate’s job related skills, experience, knowledge, and relevant education/training. Hiring range for this job may be adjusted based on primary work location outside of Pasadena, California. This adjusted range will be provided to candidates by the Recruiter when applicable.</span></p><p style=\"text-align:inherit\"></p><p><span>The typical full time equivalent annual hiring range for this job in Pasadena, California.</span></p><p></p>$122,096 - $154,336<p style=\"text-align:inherit\"></p><p style=\"text-align:left\">JPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">In addition, JPL is a VEVRAA Federal Contractor.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/agencies/ofccp/posters\" target=\"_blank\">EEO is the Law.</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf\" target=\"_blank\">EEO is the Law Supplement</a></p><p style=\"text-align:left\"><a href=\"https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_English_unformattedESQA508c.pdf\" target=\"_blank\">Pay Transparency Nondiscrimination Provision</a></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">The Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available <a href=\"https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf\" target=\"_blank\">here.</a></p><p style=\"text-align:inherit\"></p>",
+    "jobPostingId": "Science-Systems-Engineer-III_R1748",
+    "jobReqId": "R1748",
+    "jobRequisitionLocation": {
+      "country": {
+        "descriptor": "United States of America"
+      },
+      "descriptor": "JPL Campus"
     },
-    {
-      "title": "Flight Systems Engineer III (Sample Retrieval Lander) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Flight-Systems-Engineer-III--Sample-Retrieval-Lander----Project-Discovery_R3660",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Systems Engineer III (Clipper Project V&V Engineer)  - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--Clipper-Project-V-V-Engineer-----Project-Discovery_R3658",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Systems Engineer III (TS/SCI)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III--TS-SCI-_R4066",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 12 Days Ago",
-      "startDate": "2023-03-09"
-    },
-    {
-      "title": "Aerospace Nuclear Safety Engineer III",
-      "externalPath": "/job/JPL-Campus/Aerospace-Nuclear-Safety-Engineer-III_R3142",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III(Sample Retrieval Lander Payload Avionics Engineer)",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III-Sample-Retrieval-Lander-Payload-Avionics-Engineer-_R3368",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Systems Engineer III (Sample Retrieval Lander Payload Avionics Engineer)- Project Discovery",
-      "externalPath": "/job/JPL-Campus/Microdevices-Engineer-II---Project-Discovery_R3655",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "System Engineer III- (Fault Protection) - Project Discovery",
-      "externalPath": "/job/JPL-Campus/Flight-System-Engineer-III---Project-Discovery_R3653",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-07"
-    },
-    {
-      "title": "Flight Systems Engineer III, Verification and Validation",
-      "externalPath": "/job/JPL-Campus/Systems-Engineer-III_R3753",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-02-13"
-    },
-    {
-      "title": "Technical Program Manager of Mechanical Systems",
-      "externalPath": "/job/JPL-Campus/Technical-Program-Manager-of-Mechanical-Systems_R3768-1",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2023-01-11"
-    },
-    {
-      "title": "Thermal Engineer III",
-      "externalPath": "/job/JPL-Campus/Thermal-Engineer-III_R2987",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    },
-    {
-      "title": "Cable Harness Engineer III",
-      "externalPath": "/job/JPL-Campus/Cable-Harness-Engineer-III_R3514",
-      "timeType": "Full time",
-      "locationsText": "JPL Campus",
-      "postedOn": "Posted 30+ Days Ago",
-      "startDate": "2022-12-22"
-    }
-  ],
+    "location": "JPL Campus",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "startDate": "2022-12-22",
+    "timeType": "Full time",
+    "title": "Science Systems Engineer III"
+  },
   "userAuthenticated": false
 }
