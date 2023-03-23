@@ -401,6 +401,16 @@
   },
   {
     "bulletFields": [
+      "R4133"
+    ],
+    "externalPath": "/job/JPL-Campus/Enterprise-Systems-Analyst-IV_R4133",
+    "locationsText": "JPL Campus",
+    "postedOn": "Posted Today",
+    "timeType": "Full time",
+    "title": "Enterprise Systems Analyst IV"
+  },
+  {
+    "bulletFields": [
       "R4011"
     ],
     "externalPath": "/job/JPL-Campus/Entry-Level-Subcontract-Manager--Non-Supervisory-_R4011",
@@ -524,7 +534,7 @@
     ],
     "externalPath": "/job/JPL-Campus/Group-Staff-Assistant-II_R4116",
     "locationsText": "JPL Campus",
-    "postedOn": "Posted 2 Days Ago",
+    "postedOn": "Posted Today",
     "timeType": "Full time",
     "title": "Group Staff Assistant II"
   },
@@ -1957,6 +1967,16 @@
     "postedOn": "Posted 30+ Days Ago",
     "timeType": "Full time",
     "title": "Technical Program Manager of Mechanical Systems"
+  },
+  {
+    "bulletFields": [
+      "R4131"
+    ],
+    "externalPath": "/job/JPL-Campus/Technical-Writer-Editor-Publisher_R4131",
+    "locationsText": "JPL Campus",
+    "postedOn": "Posted Today",
+    "timeType": "Full time",
+    "title": "Technical Writer/Editor/Publisher"
   },
   {
     "bulletFields": [
