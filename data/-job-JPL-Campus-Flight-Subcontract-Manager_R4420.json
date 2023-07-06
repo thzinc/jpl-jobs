@@ -17,13 +17,14 @@
     "jobReqId": "R4420",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 21 Days Ago",
+    "postedOn": "Posted 22 Days Ago",
     "startDate": "2023-06-13",
     "timeType": "Full time",
     "title": "Flight Subcontract Manager IV (Individual Contributor)"

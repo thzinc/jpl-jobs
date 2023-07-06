@@ -17,13 +17,14 @@
     "jobReqId": "R4266",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 26 Days Ago",
+    "postedOn": "Posted 27 Days Ago",
     "startDate": "2023-06-08",
     "timeType": "Full time",
     "title": "Enterprise Applications Software Engineer"

@@ -17,13 +17,14 @@
     "jobReqId": "R4440",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 19 Days Ago",
+    "postedOn": "Posted 20 Days Ago",
     "startDate": "2023-06-15",
     "timeType": "Full time",
     "title": "Flight Project Planning and Scheduling Analyst"

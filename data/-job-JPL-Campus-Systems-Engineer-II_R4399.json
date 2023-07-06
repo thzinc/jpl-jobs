@@ -17,13 +17,14 @@
     "jobReqId": "R4399",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 30 Days Ago",
+    "postedOn": "Posted 30+ Days Ago",
     "startDate": "2023-06-04",
     "timeType": "Full time",
     "title": "Systems Engineer II"

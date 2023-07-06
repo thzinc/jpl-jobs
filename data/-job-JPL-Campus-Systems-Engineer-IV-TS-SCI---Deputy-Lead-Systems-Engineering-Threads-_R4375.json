@@ -17,13 +17,14 @@
     "jobReqId": "R4375",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 7 Days Ago",
+    "postedOn": "Posted 8 Days Ago",
     "startDate": "2023-06-27",
     "timeType": "Full time",
     "title": "Systems Engineer IV TS/SCI  (Deputy Lead Systems Engineering Threads)"

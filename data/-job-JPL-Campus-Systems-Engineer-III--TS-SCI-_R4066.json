@@ -17,13 +17,14 @@
     "jobReqId": "R4066",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 29 Days Ago",
+    "postedOn": "Posted 30 Days Ago",
     "startDate": "2023-06-05",
     "timeType": "Full time",
     "title": "Systems Engineer III (TS/SCI)"

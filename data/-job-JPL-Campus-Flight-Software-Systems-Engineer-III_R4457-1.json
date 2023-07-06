@@ -17,13 +17,14 @@
     "jobReqId": "R4457",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 11 Days Ago",
+    "postedOn": "Posted 12 Days Ago",
     "startDate": "2023-06-23",
     "timeType": "Full time",
     "title": "Flight Software Systems Engineer III"

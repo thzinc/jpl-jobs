@@ -17,13 +17,14 @@
     "jobReqId": "R4490",
     "jobRequisitionLocation": {
       "country": {
+        "alpha2Code": "US",
         "descriptor": "United States of America"
       },
       "descriptor": "JPL Campus"
     },
     "location": "JPL Campus",
     "posted": true,
-    "postedOn": "Posted 5 Days Ago",
+    "postedOn": "Posted 6 Days Ago",
     "startDate": "2023-06-29",
     "timeType": "Full time",
     "title": "Thermal Engineer III"
